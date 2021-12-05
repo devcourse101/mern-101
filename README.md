@@ -13,6 +13,10 @@ $ npm run app
 
 ### You will find the front-end part in Part-02 (update later)
 
+## Contact
+
+Ping me at devcourse101@protonmail.com
+
 ## License
 
 [MIT](LICENSE.md)
