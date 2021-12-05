@@ -11,4 +11,8 @@ $ npm run app
 
 [Read My Article on about this repository](https://blog.devcourse101.com/mern-stack-part-01/)
 
-### You will find the front end part (MERN TUTORIAL - Part-2) here.
+### You will find the front end part (MERN TUTORIAL Part-02)
+
+## License
+
+[MIT](LICENSE.md)
